@@ -77,6 +77,9 @@
     width: 500px;
 }
 
+.ex-6-img:hover{
+    filter: grayscale(1);
+}
 
 
 .ex-9-img {
