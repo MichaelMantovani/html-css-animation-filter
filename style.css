@@ -133,6 +133,21 @@
 }
 
 
+.ex-11-icon:hover{
+    animation: three-quarterSpin 1s ease-in 2 alternate;
+}
+
+
+@keyframes three-quarterSpin {
+   from{
+    transform: rotate(0deg);
+   }
+
+   to{
+    transform: rotate(300deg);
+   }
+}
+
 
 
 .ex-12-button, .ex-13-button {
