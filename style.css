@@ -63,6 +63,13 @@
 }
 
 
+.ex-5-square:hover{
+    transform: scale(2);
+}
+
+.ex-5-square:active{
+    transform: scale(0.5);
+}
 
 
 
